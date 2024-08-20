@@ -1,0 +1,491 @@
+@media (max-width: 989px){
+    .section-nav{
+        width: 100%;
+    }
+    .navbar{
+        width: 90%;
+        margin-inline: auto;
+    }
+    .section-text1{
+        width: 100%;
+    }
+    .section-div{
+        width: 92%;
+        margin-inline: auto;
+    }
+    .first-h1{
+        font-size: 70px;
+        line-height: 70px;
+    }
+}
+@media (max-width: 940px){
+    .links li{
+        display: none;
+    }
+    .action-btn{
+        display: none;
+    }
+}
+@media (max-width: 768px){
+    .section-text1{
+        width: 100%;
+    }
+    .section-div{
+        width: 92%;
+        margin-inline: auto;
+    }
+    .toggle-btn{
+        display: flex;
+    }
+    .first-h1{
+        font-size: 70px;
+        line-height: 70px;
+    }
+    .first-text{
+        font-size: 19px;
+        margin-top: 30px;
+    }
+    .section-image{
+        width: 100%;
+    }
+    .p-back{
+        display: none;
+    }
+    .e25-dress{
+        display: none;
+    }
+    .p-sell{
+        font-size: 15px;
+        margin-top: -320px;
+        margin-left: 10px;
+    }
+    .div-product{
+        display: none;
+    }
+    .div-footer{
+        display: none;
+    }
+    .section-policy{
+        display: none;
+    }
+    .section-toolz{
+        width: 100%;
+    }
+    .links li a{
+        display: none;
+    }
+    .action-btn{
+        display: none;
+    }
+    .div-toolz{
+        width: 91%;
+        margin-top: 90px;
+        margin-inline: auto;
+        padding: 0;
+        padding-top: 90px;
+        height: 400px;
+        padding-left: 20px;
+    }
+    .section-trust{
+        width: 100%;
+    }
+    .div-trust{
+        width: 94%;
+        margin-inline: auto;
+        line-height: 10px;
+    }
+    .img-trust img{
+        width: 80px;
+    }
+    .section-payment{
+        width: 100%;
+    }
+    .div-payment{
+        width: 93%;
+        margin-inline: auto;
+    }
+    .break-pay{
+        display: none;
+    }
+    .para-payment{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .div2-payment{
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 93%;
+        margin-inline: auto;
+        margin-top: -120px;
+    }
+    .break-online{
+        display: none;
+    }
+    .section-selling{
+        width: 100%;
+    }
+    .div-selling{
+        width: 93%;
+        margin-inline: auto;
+    }
+    .h1-selling{
+        font-size: 42px;
+    }
+    .break-sell{
+        display: none;
+    }
+    .div-selling1{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .break-free{
+        display: none;
+    }
+    .div-store{
+        padding: 0;
+        font-size: 16px;
+    }
+    .div-store p{
+        font-size: 18px;
+    }
+    .para-selling{
+        font-size: 45px;
+    }
+    .para-art{
+        text-align: center;
+    }
+    .div-accept{
+        width: 93%;
+        margin-inline: auto;
+        margin-left: -35px;
+    }
+    .div-selling{
+        padding-bottom: 260px;
+    }
+    .yanga-beauty{
+        width: 700px;
+    }
+    .creator-div{
+        display: none;
+    }
+    .creator-div1{
+        display: block;
+        padding-top: 40px;
+    }
+    .break-accept{
+        display: none;
+    }
+    .h1-toolz{
+        font-size: 50px;
+    }
+    .para-toolz{
+        font-size: 18px;
+    }
+    .div-button-toolz{
+       margin-top: 40px;
+    }
+    .section-global{
+        width: 100%;
+    }
+    .div-global{
+        width: 90%;
+        margin-inline: auto;
+    }
+    .h1-global{
+        font-size: 50px;
+    }
+    .div-globe{
+        width: 60%;
+        margin-inline: auto;
+    }
+    .div-global-curr{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .section-easy{
+        width: 100%;
+    }
+    .div-easy{
+        width: 95%;
+        margin-inline: auto;
+    }
+    .h1-easy{
+        font-size: 50px;
+    }
+    .section-wave{
+        width: 100%;
+    }
+    .div-wave{
+        width: 100%;
+        margin-inline: auto;
+    }
+    .break-use{
+        display: none;
+    }
+    .h1-wave{
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .div-translate{
+        width: 96%;
+        padding-left: 20px;
+        margin-inline: auto;
+        display: grid;
+        grid-template-columns: 1fr;
+        position: absolute;
+    }
+    .div-send{
+    padding-left: 30px;
+    width: 250px;
+    height: 300px;
+    margin-left: 30px;
+    background-color: #313131;
+    padding-top: 30px;
+    box-shadow: 0px 25px 50px rgba(0, 0, 0, .8);
+    border-radius: 15px;
+    position: absolute;
+    }
+    .div-send1{
+    padding-left: 30px;
+    width: 250px;
+    height: 300px;
+    border-radius: 15px;
+    background-color: #313131;
+    overflow: hidden;
+    padding-top: 30px;
+    box-shadow: 0px 25px 50px rgba(0, 0, 0, .8);
+    left: 250px;
+    position: absolute;
+    }
+    .div-send1:hover{
+        transform: translateX(100px);
+        transition: .8s ;
+    }
+    .div-send2{
+    padding-left: 30px;
+    padding-top: 30px;
+    width: 250px;
+    margin-left: -50px;
+    height: 300px;
+    border-radius: 15px;
+    overflow: hidden;
+    background-color: #313131;
+    box-shadow: 0px 25px 50px rgba(0, 0, 0, .8);
+    left: 490px;
+    position: absolute;
+    }
+    .div-send2:hover{
+        transform: translateX(100px);
+        transition: .8s ;
+    }
+    .ready{
+        max-width: 80vw;
+        padding: 2rem;
+    }
+    .ready h1{
+        font-size: 2rem;
+    }
+    .ready p{
+        max-width: 80vw;
+    }
+    .box_black{
+        max-width: 80vw;
+        margin: 0 auto;
+    }
+    .linklist{
+        display: none;
+    }
+    .ulink{
+        display: none;
+    }
+    .cs{
+        display: none;
+    }
+    .ulink2{
+        display: block;
+    }
+    
+    
+}
+@media (max-width: 427px){
+    .section-nav{
+        width: 100%;
+    }
+    .navbar{
+        width: 90%;
+        margin-inline: auto;
+    }
+    .section-text1{
+        width: 100%;
+    }
+    .break-first{
+        display: none;
+    }
+    .first-h1{
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .first-text{
+        font-size: 16px;
+    }
+    .div-back{
+        display: none;
+    }
+    .e25-dresspic{
+        display: none;
+    }
+    .section-image{
+        width: 100%;
+    }
+    .div-image1{
+        width: 90%;
+        margin-inline: auto;
+        padding-top: 90px;
+    }
+    .sweetpod-img{
+        display: block;
+        width: 380px;
+    }
+    .div-sell{
+        padding: 0;
+        padding-left: 20px;
+        padding-top: 30px;
+    }
+    .p-sell{
+        margin: 0;
+        padding: 0;
+    }
+    .div-e25{
+        width: 90%;
+        margin-inline: auto;
+        padding-top: 30px;
+    }
+    .e25-image1{
+        width: 380px;
+    }
+    .section-trust{
+        width: 100%;
+    }
+    .div-trust{
+        width: 90%;
+        margin-inline: auto;
+    }
+    .p-trust{
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .img-trust{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .img-trust img{
+        width: 90px;
+        padding-bottom: 30px;
+    }
+    .div-payment{
+        margin-top: -190px;
+    }
+    .para-payment{
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .div-transfer{
+        padding-top: -150px;
+    }
+    .div-selling{
+        margin-top: -60px;
+    }
+    .div-store p{
+        font-size: 17px;
+    }
+    .h1-selling{
+        font-size: 35px;
+    }
+    .breakdiv{
+        display: block;
+    }
+    .break-none{
+        display: none;
+    }
+    .yanga-beauty{
+        width: 380px;
+    }
+    .invoices p{
+        font-size: 17px;
+    }
+    .div-links p{
+        font-size: 17px;
+    }
+    .jpg-creator{
+        width: 380px;
+    }
+    .para-selling{
+        font-size: 29px;
+    }
+    .button-selling{
+        margin-top: 20px;
+    }
+    .section-wave{
+        width: 100%;
+    }
+    .div-wave{
+        width: 100%;
+        padding-top: 0;
+    }
+    .h1-wave{
+        font-size: 35px;
+        padding-top: 70px;
+    }
+    .para-wave{
+        font-size: 17px;
+    }
+    .div-translate{
+        display: none;
+    }
+    .section-easy{
+        width: 100%;
+    }
+    .div-easy{
+        width: 90%;
+        margin-inline: auto;
+    }
+    .h1-easy{
+        font-size: 30px;
+    }
+    .para-easy{
+        font-size: 18px;
+    }
+    .transfer-list li{
+        font-size: 18px;
+    }
+    .h1-global{
+        font-size: 35px;
+    }
+    .currencies{
+        padding-left: 20px;
+    }
+    .currencies p{
+        font-size: 18px;
+    }
+    .div-globe{
+        margin-left: -90px;
+        width: 20%;
+        margin-inline: auto;
+    }
+    .globe{
+        margin-left: -160px;
+    }
+    .div-toolz{
+        padding-top: 0;
+        padding-top: 60px;
+    }
+    .h1-toolz{
+        font-size: 30px;
+    }
+    .para-toolz{
+        font-size: 18px;
+    }
+    .div-toolz{
+        height: 400px;
+    }
+}
