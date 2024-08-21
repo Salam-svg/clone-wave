@@ -245,6 +245,22 @@
     margin-top: 160px;
 
 }
+.img-creator12{
+    display: none;
+}
+.div-send10{
+    display: none;
+}
+.button-toolz12{
+    padding: 15px;
+    background-color: #0a0e27;
+    border: none;
+    border-radius: 10px;
+}
+.button-toolz12 a{
+    color: #fff;
+    text-decoration: none;
+}
 .div-selling{
     width: 85%;
     margin-inline: auto;
@@ -256,58 +272,15 @@
     font-weight: 900;
     font-family: "Millik", sans-serif;
 }
-.div-selling1{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding-top: 90px;
-}
 .span-selling{
-    color: #35a162;
-}
-.para-selling{
-    /* font-weight: 300; */
-    padding-top: 200px;
-    font-size: 75px;
-}
-.customers-div{
-    background-image: url(./image/creator\ \(1\).webp);
-    /* width: 00px; */
-    height: 500px;
-    margin-top: 280px;
-    padding-left: 600px;
-    overflow: clip;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-.yanga-1{
-    background-image: url(./image/yanga-beauty\ \(1\).webp);
-    width: 500px;
-    height: 500px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 600px;
-}
-.creator-div1{
-    display: none;
-}
-.image-create{
-    z-index: 1;
-    width: 500px;
-}
-.creator-div{
-    z-index: 9999;
+    color: #35a162;;
 }
 .div-store{
-    padding-top: 50px;
+    padding-top: 200px;
     padding-left: 150px;
 
 }
-.div-store h2{
-    font-size: 21px;
-    font-weight: 700;
-}
 .div-store p{
-    padding-top: 10px;
     font-size: 20px;
 }
 .div-store button{
@@ -317,12 +290,32 @@
     border-radius: 10px;
     border: none;
 }
-.div-links{
+.div-store button a{
+    text-decoration: none;
+    color: #fff;
+}
+.div-anywhere{
     padding-top: 90px;
 }
-.div-links h2{
-    font-size: 21px;
-    font-weight: 700;
+.div-anywhere h5{
+    font-size: 25px;
+}
+.div-anywhere p{
+    font-size: 20px;
+}
+.div-selling3{
+    display: flex;
+    gap: 2em;
+}
+.img-yanga{
+    width: 100%;
+}
+.img-creator{
+    width: 80%;
+    margin-top: -40px;
+}
+.div-links{
+    padding-top: 90px;
 }
 .div-links p{
     padding-top: 10px;
@@ -332,33 +325,21 @@
     color: #fb4e20;
     text-decoration: none;
 }
-.invoices{
-    padding-top: 90px;
-}
-.invoices h2{
-    font-size: 21px;
-    font-weight: 700;
-}
-.invoices p{
-    padding-top: 10px;
-    font-size: 20px;
-}
 .invoices a{
     color: #fb4e20;
     text-decoration: none;
 }
-.span-solo{
-    color: #35a162;
-}
-.span-art{
-    color: #35a162;
-}
-.span-selling2{
-    color: #35a162;
+.para-solo{
+    text-align: center;
 }
 #image3 {
     height: 600px;
     padding-left: 129px;
+}
+.para-focus{
+    padding-top: 150px;
+    font-size: 75px;
+    padding-bottom: 190px;
 }
 #image2 {
     height:700px;
@@ -389,7 +370,11 @@
     margin-inline: auto;
     background-color: #1d1d1d;
     width: 100%;
+    margin-top: -120px;
     height: 900px;
+}
+.para-bank{
+    font-size: 16px;
 }
 .h1-wave{
     text-align: center;
@@ -587,6 +572,7 @@
     color: #00abab;
 }
 .div-span{
+    font-size: 16px;
     display: flex;
     gap: 4em;
 }
@@ -595,6 +581,7 @@
     margin-inline: auto;
     background-color: #1d1d1d;
     color: #fff;
+    margin-top: 190px;
     height: 470px;
     padding-left: 10rem;
     padding-top: 6rem;
