@@ -100,6 +100,9 @@
     border-radius: 10px;
     border: none;
 }
+.e25-image1{
+    display: none;
+}
 .div-image{
    display: flex;
    gap: 4em;
