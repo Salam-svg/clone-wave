@@ -549,6 +549,111 @@
         height: 400px;
     }
 }
+@media (max-width: 378px){
+    .navbar{
+        width: 95%;
+    }
+    .sweetpod-img{
+        width: 100%;
+    }
+    .div-accept{
+        margin: 0;
+    }
+    .div-button{
+        display: inline;
+        gap: 2em;
+    }
+    .img-yanga{
+        margin-top: 30px;
+    }
+    .img-creator1{
+        display: none;
+    }
+    .div-anywhere{
+        margin-top: -40px;
+    }
+    .img-creator12{
+        margin-top: 90px;
+        display: block;
+    }
+    .img-create{
+        width: 100%;
+    }
+    .para-focus{
+        font-size: 35px;
+    }
+    .break-free{
+        display: none;
+    }
+    .div-wave{
+        margin-top: -320px;
+        height: 1200px;
+    }
+    .breakdiv{
+        display: none;
+    }
+    .div-send10{
+        display: block;
+        padding-top: 40px;
+        
+    }
+    .div-send7{
+        padding-left: 30px;
+        padding-top: 20px;
+        height: 220px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius: 15px;
+        font-size: 14px;
+        color: #fff;
+        background-color: #313131;
+        margin-bottom: 30px;
+    }
+    .div-send8{
+        padding-left: 30px;
+        padding-top: 20px;
+        height: 250px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius: 15px;
+        font-size: 14px;
+        color: #fff;
+        background-color: #313131;
+        margin-bottom: 30px;
+    }
+    .div-send9{
+        padding-left: 30px;
+        padding-top: 20px;
+        height: 160px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius: 15px;
+        font-size: 14px;
+        color: #fff;
+        background-color: #313131;
+    }
+    .div-globe{
+        width: 0;
+        margin-left: 200px;
+       
+    }
+    .globe{
+        width: 200px;
+        height: 200px;
+    }
+    .div-toolz{
+        height: 500px;
+    }
+    .div-button-toolz{
+        display: block;
+        margin: 0;
+    }
+    .button-toolz1{
+        margin: 0;
+        display: block;
+        margin-top: 20px;
+    }
+}
 @media (max-width: 321px){
     .navbar{
         width: 95%;
